@@ -2,5 +2,6 @@ Python 3.9.2 (tags/v3.9.2:1a79785, Feb 19 2021, 13:44:55) [MSC v.1928 64 bit (AM
 Type "help", "copyright", "credits" or "license()" for more information.
 >>> 
 = RESTART: C:/Users/Derri/AppData/Local/Programs/Python/Python39/helloWorld.py =
-Hello World, my name is Derrick and I love Python!
+Hello! Please enter your name!Derrick Levasseur
+Hello Derrick Levasseur nice to meet you
 >>> 
